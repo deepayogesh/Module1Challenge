@@ -4,7 +4,7 @@
 
 ### 1.Set goal for new campigan 
 
-Kickstarter data organized in a range of campaign goals helped me to focus on factors affecting success rate over the year. “Outcome based on the goal“ graph helps us to understand the spread of success rate over the goal range in a better way. I came up with ranges with the lowest to highest campaign goals found in the data. 
+Kickstarter data organized in a range of campaign goals helped me to focus on factors affecting success rate over the year. “Outcome based on the goal“ graph helps us to understand the spread of success rate over the goal range in a better way. I came up with ranges with the lowest to highest campaign goals found in the data to see this in a line chart. 
 !Outcomes_vs_Goals.png (https://github.com/deepayogesh/kickstarter-analysis/blob/75f29df6064060057fa065e7d417265d0fe49a63/Outcomes_vs_Goals.png)
 With this analysis, my findings were if the theater/play category sets up a campaign goal in the range of either 30,000 to 34,999 or 40,000 to 44,999 range to achieve a 	high success rate. Campaigns that fall in the range of 10,000 to 25,000 had equal success and failure rate over the spread and lowest cancellation rate.
 
