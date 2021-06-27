@@ -1,7 +1,5 @@
-# Module1Challenge
-UT Boot camp challenge 1
 # Kickstarting with Excel
-
+!Kickstarter_Challenge.xlsx(https://github.com/deepayogesh/Module1Challenge/blob/5d10873b1e3a6e066062212d6b5019c6681523a2/Kickstarter_Challenge.xlsx)
 ## Overview of Project
 
 ### Purpose
@@ -15,12 +13,14 @@ UT Boot camp challenge 1
 
 ### Analysis of Outcomes Based on Goals
 	A higher range of goals shows more fluctuations in success rates. 
+!Outcomes_vs_Goals.png (https://github.com/deepayogesh/Module1Challenge/blob/5d10873b1e3a6e066062212d6b5019c6681523a2/Outcomes_vs_Goals.png) 
 ### Challenges and Difficulties Encountered
 	The only difficulty that I faced was that it took me some time to get the correct syntax to write the COUNTIFS function.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+!Theater_Outcomes_vs_Launch.png(https://github.com/deepayogesh/Module1Challenge/blob/5d10873b1e3a6e066062212d6b5019c6681523a2/Theater_Outcomes_vs_Launch.png)
 	1. If the goal is between the range of 1000 to 25000, percentage of success rate was more stable.
 	2. If the goal is greater than 25000, percentage of success rate was unstable.
 - What can you conclude about the Outcomes based on Goals?
@@ -28,4 +28,5 @@ UT Boot camp challenge 1
 - What are some limitations of this dataset?
 	More sample data could get better picture to decide on goal.
 - What are some other possible tables and/or graphs that we could create?
-	Other possible graphs we could create include the observation of crowdfunding project success by country. 
+	Other possible graphs we could create include the observation of crowdfunding project success by country.
+
